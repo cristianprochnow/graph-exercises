@@ -20,3 +20,22 @@ O estado Bahia é o estado com mais fronteiras, tendo 8
 
 Process finished with exit code 0
 ```
+
+# #3
+
+Segundo o professor:
+
+![_3.png](.github/_3.png)
+![_3-2.png](.github/_3-2.png)
+
+# #4
+
+Segundo o professor:
+
+![_4.png](.github/_4.png)
+
+# #5
+
+Segundo o professor:
+
+![_5.png](.github/_5.png)
