@@ -1,4 +1,4 @@
-# graph-exercises
+# Graph Exercises
 🪶 Exercises about graphs for IA class.
 
 # [#1](src/_1.py)
